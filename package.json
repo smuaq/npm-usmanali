@@ -1,0 +1,33 @@
+{
+  "name": "usmanali",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "bin": {
+    "usmanali": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smuaq/npm-usmanali.git"
+  },
+  "keywords": [
+    "usmanali",
+    "usman ali",
+    "business card",
+    "e-card"
+  ],
+  "author": "Usman Ali <smuaq@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smuaq/npm-usmanali/issues"
+  },
+  "homepage": "https://github.com/smuaq/npm-usmanali#readme",
+  "dependencies": {
+    "colorette": "^1.0.7",
+    "nodemon": "^3.0.1",
+    "table-layout": "^3.0.2"
+  }
+}
